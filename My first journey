@@ -1,0 +1,13 @@
+#include <iostream>
+
+int main() {
+  std::cout << "Hello, World!"<< std::endl;
+  return 0;
+}
+std::cout << "Hello, World!" << std::endl; this is the ouput function
+// header file provide function and class declaration
+
+// Header file and Preprocessor directives
+// #include<iostream> is a preprocessor directive
+// preprocessor that processes the source code before it is passed to the compiler
+main() is the function serves as the entry point of the program 
